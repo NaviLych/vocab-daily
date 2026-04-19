@@ -1,0 +1,85 @@
+name: Daily Vocab Generation
+
+on:
+  schedule:
+    # UTC 22:00 = 北京时间 06:00，每天早上自动生成
+    - cron: '0 22 * * *'
+  workflow_dispatch:
+    # 支持手动触发（调试用）
+    inputs:
+      force:
+        description: '强制重新生成（即使今天已生成）'
+        required: false
+        default: 'false'
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install openai duckduckgo-search requests
+
+      - name: Generate daily vocab card
+        env:
+          API_BASE_URL: ${{ secrets.API_BASE_URL }}
+          API_KEY: ${{ secrets.API_KEY }}
+          MODEL_NAME: ${{ secrets.MODEL_NAME }}
+          REVIEW_MODEL: ${{ secrets.REVIEW_MODEL }}
+        run: |
+          cd scripts
+          python generate.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "vocab-bot"
+          git config user.email "vocab-bot@users.noreply.github.com"
+          git add public/data/
+          # 从最新生成的索引中提取今日词汇
+          WORD=$(python3 -c "
+          import json
+          with open('public/data/index.json') as f:
+              idx = json.load(f)
+          latest = idx['days'][-1]
+          print(f\"Day {latest['day']}: {latest['word']}（{latest['theme']}）\")
+          " 2>/dev/null || echo "new vocab card")
+          git commit -m "📚 ${WORD}" || echo "Nothing to commit"
+          git push
+
+  deploy:
+    needs: generate
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: main  # 确保拿到 generate job 推送后的最新代码
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install and build
+        run: |
+          npm ci
+          npm run build
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
