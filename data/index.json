@@ -6,7 +6,14 @@
       "theme": "社交互动",
       "date": "2026-04-20",
       "file": "days/day001.json"
+    },
+    {
+      "day": 2,
+      "word": "go viral",
+      "theme": "内容爆火",
+      "date": "2026-04-21",
+      "file": "days/day002.json"
     }
   ],
-  "lastUpdated": "2026-04-20"
+  "lastUpdated": "2026-04-21"
 }
