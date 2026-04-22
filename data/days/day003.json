@@ -1,0 +1,134 @@
+{
+  "word": "rizz",
+  "phonetic": "/rɪz/",
+  "pos": "n. / v. (informal slang)",
+  "theme": "人际社交",
+  "dialogue": {
+    "zh": [
+      {
+        "speaker": "A",
+        "text": "你昨天不是去校友聚餐了吗，有没有加上那个你念叨好久的美术系女生的微信啊？",
+        "highlight": "校友聚餐"
+      },
+      {
+        "speaker": "B",
+        "text": "那必须啊，我上去聊了两句她就主动把微信给我了。",
+        "highlight": "主动把微信给我了"
+      },
+      {
+        "speaker": "A",
+        "text": "可以啊你，这撩人的本事也太强了，快教教我呗。",
+        "highlight": "撩人的本事"
+      },
+      {
+        "speaker": "B",
+        "text": "害，这也没啥，就找她感兴趣的话题聊就行了，别一上来就瞎夸。",
+        "highlight": "感兴趣的话题"
+      },
+      {
+        "speaker": "A",
+        "text": "我上次尝试跟女生搭话，刚说两句人家就走了，根本没这天赋。",
+        "highlight": "搭话"
+      },
+      {
+        "speaker": "B",
+        "text": "没事多练练就好了，胆子大点自然点，魅力自然就出来了。",
+        "highlight": "魅力"
+      }
+    ],
+    "en": [
+      {
+        "speaker": "A",
+        "text": "Didn't you go to the alumni dinner yesterday? Did you get the WeChat ID of that art department girl you've been talking about for ages?",
+        "highlight": "alumni dinner"
+      },
+      {
+        "speaker": "B",
+        "text": "Of course I did. I went up to chat with her for a couple of minutes and she offered it to me on her own.",
+        "highlight": "offered it to me on her own"
+      },
+      {
+        "speaker": "A",
+        "text": "Wow, that's so cool! Your **rizz** is literally insane, can you teach me some tricks?",
+        "highlight": "**rizz**"
+      },
+      {
+        "speaker": "B",
+        "text": "Ah it's no big deal. Just talk about topics she's interested in, don't throw random compliments out of nowhere.",
+        "highlight": "topics she's interested in"
+      },
+      {
+        "speaker": "A",
+        "text": "Last time I tried to strike up a conversation with a girl, she left after two sentences. I don't have that natural talent at all.",
+        "highlight": "strike up a conversation"
+      },
+      {
+        "speaker": "B",
+        "text": "You'll get better with practice. Just be more confident and natural, your **rizz** will shine through eventually.",
+        "highlight": "**rizz**"
+      }
+    ]
+  },
+  "definitions": [
+    {
+      "en": "(slang, noun) Natural charm and charisma that enables a person to easily attract romantic or social interest from others",
+      "zh": "（俚语，名词）天生的社交魅力、撩人能力，指能轻松吸引他人好感尤其是获得恋爱关注的特质"
+    },
+    {
+      "en": "(slang, verb) To charm, flirt with or seduce someone, usually used in the phrasal verb \"rizz up\"",
+      "zh": "（俚语，动词）撩、调情、吸引某人，常用于短语rizz up"
+    }
+  ],
+  "examples": [
+    {
+      "en": "That guy has crazy rizz, he gets phone numbers from almost every girl he talks to at parties.",
+      "zh": "那个男生的撩人能力超强，派对上他几乎和每个女生聊天都能要到对方的手机号"
+    },
+    {
+      "en": "Don't try to rizz up my best friend, she's already in a committed relationship.",
+      "zh": "你别想撩我最好的朋友，她已经有稳定交往的对象了"
+    },
+    {
+      "en": "I've been watching dating tutorials to improve my rizz before I ask my crush out.",
+      "zh": "我最近一直在看约会教程提升我的撩人技巧，之后好约我喜欢的人出去"
+    }
+  ],
+  "synonyms": [
+    {
+      "word": "charisma",
+      "zh": "人格魅力"
+    },
+    {
+      "word": "game",
+      "zh": "（俚语）撩技，社交吸引力"
+    }
+  ],
+  "antonyms": [
+    {
+      "word": "awkwardness",
+      "zh": "木讷，社交笨拙"
+    },
+    {
+      "word": "unattractiveness",
+      "zh": "缺乏吸引力，无魅力"
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "have rizz",
+      "zh": "有魅力，会撩人"
+    },
+    {
+      "phrase": "rizz up sb",
+      "zh": "撩某人，吸引某人"
+    },
+    {
+      "phrase": "top-tier rizz",
+      "zh": "顶级魅力，超强撩人能力"
+    }
+  ],
+  "day": 3,
+  "themeColor": "#FF8C42",
+  "generatedAt": "2026-04-22T22:20:28.875701",
+  "reviewedAt": "2026-04-22T22:21:07.368478"
+}
