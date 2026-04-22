@@ -13,7 +13,14 @@
       "theme": "内容爆火",
       "date": "2026-04-21",
       "file": "days/day002.json"
+    },
+    {
+      "day": 3,
+      "word": "rizz",
+      "theme": "人际社交",
+      "date": "2026-04-22",
+      "file": "days/day003.json"
     }
   ],
-  "lastUpdated": "2026-04-21"
+  "lastUpdated": "2026-04-22"
 }
