@@ -1,0 +1,134 @@
+{
+  "word": "vibe check",
+  "phonetic": "/vaɪb tʃek/",
+  "pos": "名词短语",
+  "theme": "社交互动",
+  "dialogue": {
+    "zh": [
+      {
+        "speaker": "A",
+        "text": "哈喽，刚看你一路都没怎么说话，状态不太对呀？",
+        "highlight": "状态不太对呀"
+      },
+      {
+        "speaker": "B",
+        "text": "唉，刚才跟项目组闹了点矛盾，正憋得慌呢。",
+        "highlight": "憋得慌"
+      },
+      {
+        "speaker": "A",
+        "text": "哈哈我就说，我这正打算看看你近况咋样，果然有情况。",
+        "highlight": "看看你近况咋样"
+      },
+      {
+        "speaker": "B",
+        "text": "还是你懂我，其他人都没看出来我不对劲。",
+        "highlight": "没看出来我不对劲"
+      },
+      {
+        "speaker": "A",
+        "text": "那必须啊，咱们认识这么久，我扫一眼就知道你情绪好不好。",
+        "highlight": "扫一眼就知道你情绪好不好"
+      },
+      {
+        "speaker": "B",
+        "text": "太感动了，走，我请你喝奶茶，顺便跟你吐槽吐槽。",
+        "highlight": "请你喝奶茶"
+      }
+    ],
+    "en": [
+      {
+        "speaker": "A",
+        "text": "Hey, you barely said a word all the way here, is everything okay?",
+        "highlight": "is everything okay"
+      },
+      {
+        "speaker": "B",
+        "text": "Ugh, I just had a conflict with my project team, I'm so frustrated right now.",
+        "highlight": "frustrated"
+      },
+      {
+        "speaker": "A",
+        "text": "Haha I knew it, I was about to do a **vibe check** on you and I was right, something's up.",
+        "highlight": "**vibe check**"
+      },
+      {
+        "speaker": "B",
+        "text": "You know me so well, no one else noticed I was off.",
+        "highlight": "noticed I was off"
+      },
+      {
+        "speaker": "A",
+        "text": "Of course, we've known each other for ages, I can tell your mood with just one glance.",
+        "highlight": "tell your mood"
+      },
+      {
+        "speaker": "B",
+        "text": "That's so sweet of you, c'mon, I'll treat you to bubble tea and rant about it on the way.",
+        "highlight": "treat you to bubble tea"
+      }
+    ]
+  },
+  "definitions": [
+    {
+      "en": "(informal) An act of intentionally checking someone's current emotional state, or the overall atmosphere of a social situation to see if everything is going well.",
+      "zh": "（非正式）情绪/氛围检查，指主动确认某人当下的情绪状态，或是某个社交场合的整体氛围是否顺畅"
+    },
+    {
+      "en": "(internet slang) A casual interactive prompt usually posted on social media, asking others to share their current status or mood.",
+      "zh": "（网络俚语）状态征集，通常是发布在社交平台的非正式互动提示，号召大家分享自己当下的状态或心情"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I did a quick **vibe check** on my little sister after her exam, and it turns out she aced it.",
+      "zh": "考试结束后我快速问了下我妹妹的状态，发现她考得特别好"
+    },
+    {
+      "en": "Before starting the party, we did a **vibe check** to make sure no one felt left out.",
+      "zh": "派对开始前我们确认了下大家的状态，确保没人觉得被冷落了"
+    },
+    {
+      "en": "The blogger posted a **vibe check** on his Instagram story, and thousands of fans replied with their current mood.",
+      "zh": "这个博主在他的Ins快拍上发了个状态征集，成千上万的粉丝回复了自己当下的心情"
+    }
+  ],
+  "synonyms": [
+    {
+      "word": "mood check",
+      "zh": "情绪检查"
+    },
+    {
+      "word": "temperature check",
+      "zh": "氛围摸底"
+    }
+  ],
+  "antonyms": [
+    {
+      "word": "emotional neglect",
+      "zh": "情绪忽视"
+    },
+    {
+      "word": "social apathy",
+      "zh": "社交冷漠"
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "do a vibe check",
+      "zh": "做一次状态/氛围检查"
+    },
+    {
+      "phrase": "quick vibe check",
+      "zh": "快速状态确认"
+    },
+    {
+      "phrase": "post a vibe check",
+      "zh": "发布状态征集（社交平台场景）"
+    }
+  ],
+  "day": 1,
+  "themeColor": "#E85D75",
+  "generatedAt": "2026-04-20T01:40:04.693593",
+  "reviewedAt": "2026-04-20T01:40:35.534207"
+}
