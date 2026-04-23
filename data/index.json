@@ -20,7 +20,14 @@
       "theme": "人际社交",
       "date": "2026-04-22",
       "file": "days/day003.json"
+    },
+    {
+      "day": 4,
+      "word": "based",
+      "theme": "情感表达",
+      "date": "2026-04-23",
+      "file": "days/day004.json"
     }
   ],
-  "lastUpdated": "2026-04-22"
+  "lastUpdated": "2026-04-23"
 }

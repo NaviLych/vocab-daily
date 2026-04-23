@@ -1,0 +1,52 @@
+{
+  "word": "based",
+  "phonetic": "/beɪst/",
+  "pos": "adj.",
+  "theme": "情感表达",
+  "dialogue": {
+    "zh": [
+      {"speaker": "A", "text": "我不想再跟风买那些网红产品了，太累", "highlight": "跟风"},
+      {"speaker": "B", "text": "哇，说得太对了！这就是**based**", "highlight": "based"},
+      {"speaker": "A", "text": "哈哈哈谢谢，我就想做自己", "highlight": "做自己"},
+      {"speaker": "B", "text": "你上次当众怼那个甲方，真的太勇敢了", "highlight": "太勇敢了"},
+      {"speaker": "A", "text": "不是勇敢，是他说得真的有问题啊", "highlight": "有问题"},
+      {"speaker": "B", "text": "行行行，反正你一直都这么real", "highlight": "real"}
+    ],
+    "en": [
+      {"speaker": "A", "text": "I'm done following every trend, it's exhausting", "highlight": "following every trend"},
+      {"speaker": "B", "text": "Oh wow, that is so **based** of you!", "highlight": "based"},
+      {"speaker": "A", "text": "Haha thanks, I just wanna be myself", "highlight": "be myself"},
+      {"speaker": "B", "text": "Remember when you called out that client in the meeting? So brave", "highlight": "called out"},
+      {"speaker": "A", "text": "I wasn't being brave, he was just wrong", "highlight": "wrong"},
+      {"speaker": "B", "text": "Fair, you're always staying true to yourself", "highlight": "staying true"}
+    ]
+  },
+  "definitions": [
+    {"en": "Confidently expressing your opinion without caring what others think", "zh": "自信表达观点，不在乎他人看法"},
+    {"en": "Being authentic and unapologetically yourself", "zh": "做真实的自己，无需道歉"}
+  ],
+  "examples": [
+    {"en": "He said he doesn't care about trends. That's so **based**.", "zh": "他说他不在乎潮流。这太真实了。"},
+    {"en": "You brought your own snacks to the movies? **Based** behavior.", "zh": "你带自己的零食去看电影？真实做自己。"},
+    {"en": "She stood up for her opinion even though everyone disagreed. **Based** take.", "zh": "她即使被所有人反对也坚持自己的观点。真实的立场。"}
+  ],
+  "synonyms": [
+    {"word": "authentic", "zh": "真实的"},
+    {"word": "real", "zh": "接地气的"},
+    {"word": "bold", "zh": "大胆的"}
+  ],
+  "antonyms": [
+    {"word": "cringe", "zh": "尴尬的"},
+    {"word": "fake", "zh": "虚伪的"},
+    {"word": "basic", "zh": "随大流的"}
+  ],
+  "collocations": [
+    {"phrase": "based take", "zh": "真实的观点"},
+    {"phrase": "based behavior", "zh": "做自己的行为"},
+    {"phrase": "based opinion", "zh": "大胆的立场"}
+  ],
+  "day": 4,
+  "themeColor": "#4CAF50",
+  "generatedAt": "2026-04-23T08:00:00+08:00",
+  "reviewedAt": "2026-04-23T08:30:00+08:00"
+}
