@@ -27,7 +27,14 @@
       "theme": "情感表达",
       "date": "2026-04-23",
       "file": "days/day004.json"
+    },
+    {
+      "day": 5,
+      "word": "delulu",
+      "theme": "情感表达",
+      "date": "2026-04-24",
+      "file": "days/day005.json"
     }
   ],
-  "lastUpdated": "2026-04-23"
+  "lastUpdated": "2026-04-24"
 }
