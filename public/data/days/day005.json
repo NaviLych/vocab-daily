@@ -1,0 +1,45 @@
+{
+  "word": "delulu",
+  "phonetic": "/dəˈluːluː/",
+  "pos": "adj./n.",
+  "theme": "情感表达",
+  "dialogue": {
+    "zh": [
+      {"speaker": "A", "text": "他昨天对我笑了一下，他是不是喜欢我？", "highlight": "delulu"},
+      {"speaker": "B", "text": "姐妹，醒醒，他对所有人都这样好吗。别太delulu了。", "highlight": "delulu"},
+      {"speaker": "A", "text": "好吧...但我就是控制不住啊！", "highlight": ""},
+      {"speaker": "B", "text": "哈哈没关系，delulu is the solulu嘛！", "highlight": "solulu"}
+    ],
+    "en": [
+      {"speaker": "A", "text": "He smiled at me yesterday, does he like me?", "highlight": "delulu"},
+      {"speaker": "B", "text": "Girl, wake up. He smiles at everyone. Don't be so delulu.", "highlight": "delulu"},
+      {"speaker": "A", "text": "I know... but I can't help it!", "highlight": ""},
+      {"speaker": "B", "text": "Haha it's fine, delulu is the solulu!", "highlight": "solulu"}
+    ]
+  },
+  "definitions": [
+    {"en": "Internet slang for 'delusional' — having unrealistic beliefs or fantasies, often about relationships or life goals", "zh": "网络俚语，意为「妄想/不切实际」——对感情或人生目标抱有幻想"},
+    {"en": "Playfully describes confident optimism that's obviously unrealistic but self-aware", "zh": "戏谑地形容那种「知道不现实但就是要信」的乐观心态"}
+  ],
+  "examples": [
+    {"en": "I'm so delulu thinking he'll actually text me back.", "zh": "我真是delulu，居然觉得他会回我消息。"},
+    {"en": "My delulu era: believing I'll wake up rich one day.", "zh": "我的delulu时代：相信某天醒来就会变有钱。"},
+    {"en": "Delulu is the solulu — sometimes you gotta fake it till you make it.", "zh": "Delulu is the solulu（妄想是解药）——有时候就得假装到自己都信。"},
+    {"en": "Bestie, you're being delulu if you think he's into you after one date.", "zh": "姐妹，相亲一次你就觉得人家看上你了，你可真delulu。"}
+  ],
+  "synonyms": [
+    {"word": "delusional", "zh": "妄想的（正式说法）"},
+    {"word": "trippin'", "zh": "想太多了"},
+    {"word": "gaslit", "zh": "被洗脑了"}
+  ],
+  "antonyms": [
+    {"word": "realistic", "zh": "现实主义的"},
+    {"word": "grounded", "zh": "脚踏实地的"}
+  ],
+  "collocations": [
+    {"phrase": "delulu era", "zh": "妄想时代（自我调侃某段沉迷幻想的时期）"},
+    {"phrase": "delulu land", "zh": "妄想世界（类似la-la land的幻想空间）"},
+    {"phrase": "delulu is the solulu", "zh": "妄想是解药（暗示自信+幻想能带来好运）"}
+  ],
+  "fun_fact": "2023年TikTok爆火，2025年被收入Cambridge Dictionary。同年澳大利亚总理在国会演讲中使用「delulu with no solulu」批评反对派！"
+}
