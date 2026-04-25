@@ -1,0 +1,48 @@
+{
+  "word": "aura farming",
+  "phonetic": "/ˈɔːr.ə ˌfɑːr.mɪŋ/",
+  "pos": "noun",
+  "theme": "网络流行",
+  "dialogue": {
+    "zh": [
+      {"speaker": "A", "text": "看那个视频了吗？那个印尼小孩在船头跳舞那个", "highlight": "船头跳舞"},
+      {"speaker": "B", "text": "啊啊啊！那个就是传说中的 aura farming！", "highlight": "aura farming"},
+      {"speaker": "A", "text": "哈哈他戴个墨镜一脸淡定地在船头晃，太有那味儿了", "highlight": "太有那味儿"},
+      {"speaker": "B", "text": "这就是纯纯的 aura farming 精髓——看起来毫不费力，其实全是小心机", "highlight": "毫不费力"}
+    ],
+    "en": [
+      {"speaker": "A", "text": "Did you see that video? The Indonesian kid dancing on the bow of the boat", "highlight": "bow of the boat"},
+      {"speaker": "B", "text": "OMG! That's literally the legendary aura farming!", "highlight": "aura farming"},
+      {"speaker": "A", "text": "Hahaha he just stood there with sunglasses looking so unbothered", "highlight": "unbothered"},
+      {"speaker": "B", "text": "That's the essence of aura farming—looking effortless while being calculated", "highlight": "effortless"}
+    ]
+  },
+  "definitions": [
+    {"en": "The act of intentionally doing something to look cool, impressive, stylish, especially without trying too hard", "zh": "故意做某事让自己看起来酷、有魅力、不费力"},
+    {"en": "Cultivating an appearance of effortless charisma or \"coolness\" through repetitive, stylized actions", "zh": "通过重复的、有风格的行为来打造毫不费力的魅力形象"}
+  ],
+  "examples": [
+    {"en": "Posted a matcha pic with a book? That's pure aura farming.", "zh": "发了张抹茶配书的照片？完全是 aura farming。"},
+    {"en": "Walking into school with those sneakers? Pure aura farming.", "zh": "穿着那双球鞋走进学校？完全是在 aura farming。"},
+    {"en": "He stood there with his arms crossed and cape flowing—that's so Piccolo aura farming.", "zh": "他双手交叉站在那里，披风飘动——这就是皮卡丘的 aura farming。"},
+    {"en": "You're aura farming if you're flexing too hard and trying desperately to look cool.", "zh": "如果你太用力地炫耀、拼命想显得酷，那你就掉进了 aura farming 的陷阱。"}
+  ],
+  "synonyms": [
+    {"word": "flexing", "zh": "炫耀"},
+    {"word": "showing off", "zh": "显摆"},
+    {"word": "posturing", "zh": "装腔作势"},
+    {"word": "grandstanding", "zh": "出风头"}
+  ],
+  "antonyms": [
+    {"word": "lowkey", "zh": "低调"},
+    {"word": "understated", "zh": "内敛"},
+    {"word": "natural", "zh": "自然"}
+  ],
+  "collocations": [
+    {"phrase": "pure aura farming", "zh": "纯粹在 aura farming"},
+    {"phrase": "aura farming complete", "zh": "aura farming 达成"},
+    {"phrase": "caught aura farming", "zh": "被抓到在 aura farming"},
+    {"phrase": "aura farming 101", "zh": "aura farming 入门"}
+  ],
+  "origin": "Aura farming combines 'aura' (a person's unique charismatic aesthetic) with 'farming' (repetitive behavior to acquire something in video games). The trend exploded in 2024-2025, especially through anime fandom, and went global in mid-2025 when 11-year-old Rayyan Arkan Dikha's boat dance video went viral. The term has been officially recognized by Cambridge Dictionary, Dictionary.com, and Merriam-Webster."
+}
