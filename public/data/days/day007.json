@@ -1,0 +1,42 @@
+{
+  "word": "Pop off",
+  "phonetic": "/pɒp ɒf/",
+  "pos": "phrasal verb",
+  "theme": "职场表达",
+  "color": "#E85D75",
+  "dialogue": {
+    "zh": [
+      {"speaker": "A", "text": "天哪，你看老板刚才的演讲没？", "highlight": "演讲"},
+      {"speaker": "B", "text": "看了看了，她真的 pop off 了！数据直接炸裂。", "highlight": "pop off"}
+    ],
+    "en": [
+      {"speaker": "A", "text": "Did you see the boss's presentation just now?", "highlight": "presentation"},
+      {"speaker": "B", "text": "Yeah! She really popped off! The numbers were insane.", "highlight": "popped off"}
+    ]
+  },
+  "definitions": [
+    {"en": "To perform exceptionally well; to excel with confidence and energy", "zh": "表现出色、发挥超常、充满自信地展现"},
+    {"en": "To speak boldly and passionately about something", "zh": "大胆表达观点、激情发言"}
+  ],
+  "examples": [
+    {"en": "Your presentation was fire! You really popped off.", "zh": "你的演讲太炸了！真的火力全开。"},
+    {"en": "She popped off in the comments defending her point.", "zh": "她在评论区火力全开为自己的观点辩护。"},
+    {"en": "Pop off, king! You absolutely slayed that performance.", "zh": "厉害啊大佬！你的表演真的太绝了。"},
+    {"en": "The new restaurant is popping off — there's a two-hour wait every night.", "zh": "那家新餐厅火了——每晚都要排两小时队。"}
+  ],
+  "synonyms": [
+    {"word": "slay", "zh": "表现出色、惊艳全场"},
+    {"word": "go off", "zh": "大获成功"},
+    {"word": "show out", "zh": "惊艳发挥"},
+    {"word": "eat", "zh": "完美完成、惊艳全场"}
+  ],
+  "antonyms": [
+    {"word": "crash out", "zh": "情绪崩溃、发挥失常"},
+    {"word": "bomb", "zh": "搞砸、失败"}
+  ],
+  "collocations": [
+    {"phrase": "pop off queen/king", "zh": "女王/国王般的表现"},
+    {"phrase": "pop off energy", "zh": "火力全开的状态"},
+    {"phrase": "real pop off", "zh": "真正的发挥"}
+  ]
+}
