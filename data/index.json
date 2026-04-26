@@ -5,7 +5,8 @@
     {"day": 3, "word": "rizz", "theme": "人际社交", "date": "2026-04-22", "file": "days/day003.json"},
     {"day": 4, "word": "based", "theme": "情感表达", "date": "2026-04-23", "file": "days/day004.json"},
     {"day": 5, "word": "delulu", "theme": "情感表达", "date": "2026-04-24", "file": "days/day005.json"},
-    {"day": 6, "word": "aura farming", "theme": "网络流行", "date": "2026-04-25", "file": "days/day006.json"}
+    {"day": 6, "word": "aura farming", "theme": "网络流行", "date": "2026-04-25", "file": "days/day006.json"},
+    {"day": 7, "word": "Pop off", "theme": "职场表达", "date": "2026-04-26", "file": "days/day007.json"}
   ],
-  "lastUpdated": "2026-04-25"
+  "lastUpdated": "2026-04-26"
 }
