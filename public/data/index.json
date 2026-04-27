@@ -1,14 +1,75 @@
 {
   "days": [
-    {"day": 1, "word": "vibe check", "theme": "社交互动", "date": "2026-04-20", "file": "days/day001.json"},
-    {"day": 2, "word": "go viral", "theme": "内容爆火", "date": "2026-04-21", "file": "days/day002.json"},
-    {"day": 3, "word": "rizz", "theme": "人际社交", "date": "2026-04-22", "file": "days/day003.json"},
-    {"day": 4, "word": "based", "theme": "烅感表达", "date": "2026-04-23", "file": "days/day004.json"},
-    {"day": 5, "word": "delulu", "theme": "情感表达", "date": "2026-04-24", "file": "days/day005.json"},
-    {"day": 6, "word": "aura farming", "theme": "网络流行", "date": "2026-04-25", "file": "days/day006.json"},
-    {"day": 7, "word": "Pop off", "theme": "职场表达", "date": "2026-04-26", "file": "days/day007.json"},
-    {"day": 8, "word": "Beige flag", "theme": "情感表达", "date": "2026-04-27", "file": "days/day008.json"},
-    {"day": 9, "word": "crash out", "theme": "情感表达", "date": "2026-04-28", "file": "days/day009.json"}
+    {
+      "day": 1,
+      "word": "vibe check",
+      "theme": "社交互动",
+      "date": "2026-04-20",
+      "file": "days/day001.json"
+    },
+    {
+      "day": 2,
+      "word": "go viral",
+      "theme": "内容爆火",
+      "date": "2026-04-21",
+      "file": "days/day002.json"
+    },
+    {
+      "day": 3,
+      "word": "rizz",
+      "theme": "人际社交",
+      "date": "2026-04-22",
+      "file": "days/day003.json"
+    },
+    {
+      "day": 4,
+      "word": "based",
+      "theme": "烅感表达",
+      "date": "2026-04-23",
+      "file": "days/day004.json"
+    },
+    {
+      "day": 5,
+      "word": "delulu",
+      "theme": "情感表达",
+      "date": "2026-04-24",
+      "file": "days/day005.json"
+    },
+    {
+      "day": 6,
+      "word": "aura farming",
+      "theme": "网络流行",
+      "date": "2026-04-25",
+      "file": "days/day006.json"
+    },
+    {
+      "day": 7,
+      "word": "Pop off",
+      "theme": "职场表达",
+      "date": "2026-04-26",
+      "file": "days/day007.json"
+    },
+    {
+      "day": 8,
+      "word": "Beige flag",
+      "theme": "情感表达",
+      "date": "2026-04-27",
+      "file": "days/day008.json"
+    },
+    {
+      "day": 9,
+      "word": "crash out",
+      "theme": "情感表达",
+      "date": "2026-04-28",
+      "file": "days/day009.json"
+    },
+    {
+      "day": 10,
+      "word": "mid",
+      "theme": "评价吐槽",
+      "date": "2026-04-27",
+      "file": "days/day010.json"
+    }
   ],
-  "lastUpdated": "2026-04-28"
+  "lastUpdated": "2026-04-27"
 }
