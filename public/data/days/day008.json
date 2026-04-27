@@ -1,0 +1,118 @@
+{
+  "word": "Beige flag",
+  "phonetic": "/beɪʒ flæɡ/",
+  "pos": "noun",
+  "theme": "情感表达",
+  "dialogue": {
+    "zh": [
+      {
+        "speaker": "A",
+        "text": "我约会对象那个行为好奇怪啊",
+        "highlight": ""
+      },
+      {
+        "speaker": "B",
+        "text": "啥行为？",
+        "highlight": ""
+      },
+      {
+        "speaker": "A",
+        "text": "他给他的每个植物都起了名字，还叫它们下楼晒太阳",
+        "highlight": "beige flag"
+      },
+      {
+        "speaker": "B",
+        "text": "哈哈那算什么，最多算个beige flag，不算red flag啦",
+        "highlight": "beige flag"
+      }
+    ],
+    "en": [
+      {
+        "speaker": "A",
+        "text": "My date did something so weird yesterday",
+        "highlight": ""
+      },
+      {
+        "speaker": "B",
+        "text": "Like what?",
+        "highlight": ""
+      },
+      {
+        "speaker": "A",
+        "text": "He named all his houseplants and talks to them like they're his kids",
+        "highlight": "beige flag"
+      },
+      {
+        "speaker": "B",
+        "text": "Haha that's just a beige flag, not a red flag",
+        "highlight": "beige flag"
+      }
+    ]
+  },
+  "definitions": [
+    {
+      "en": "A quirky or neutral trait in someone that is neither a dealbreaker (red flag) nor a green light (green flag) — just mildly odd or amusing",
+      "zh": "一种古怪或中性的特质，既不是red flag（危险信号）也不是green flag（积极信号），只是有点奇怪或好笑"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He sets his alarm for 6:03 instead of 6:00 — that's such a beige flag.",
+      "zh": "他把闹钟设在6:03而不是6:00——这真是个beige flag。"
+    },
+    {
+      "en": "She eats pizza with a fork and knife. Total beige flag.",
+      "zh": "她用刀叉吃披萨。典型的beige flag。"
+    },
+    {
+      "en": "His beige flag? He always apologizes to furniture when he bumps into it.",
+      "zh": "他的beige flag？他撞到家具时总是跟家具道歉。"
+    },
+    {
+      "en": "Naming every houseplant? That's a beige flag, not a dealbreaker.",
+      "zh": "给每棵植物都起名字？那只是个beige flag，不是致命问题。"
+    }
+  ],
+  "synonyms": [
+    {
+      "word": "quirk",
+      "zh": "怪癖、古怪习惯"
+    },
+    {
+      "word": "oddity",
+      "zh": "古怪、反常"
+    },
+    {
+      "word": "peculiarity",
+      "zh": "特殊性、怪癖"
+    }
+  ],
+  "antonyms": [
+    {
+      "word": "red flag",
+      "zh": "危险信号（需要警惕的问题）"
+    },
+    {
+      "word": "green flag",
+      "zh": "积极信号（好的特质）"
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "have a beige flag",
+      "zh": "有个古怪习惯"
+    },
+    {
+      "phrase": "total beige flag",
+      "zh": "完全是beige flag"
+    },
+    {
+      "phrase": "that's such a beige flag",
+      "zh": "那真是个beige flag"
+    },
+    {
+      "phrase": "beige flag behavior",
+      "zh": "beige flag行为"
+    }
+  ]
+}
