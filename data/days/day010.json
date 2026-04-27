@@ -1,0 +1,134 @@
+{
+  "word": "mid",
+  "phonetic": "/mɪd/",
+  "pos": "adj. 形容词",
+  "theme": "评价吐槽",
+  "dialogue": {
+    "zh": [
+      {
+        "speaker": "A",
+        "text": "上周我去看了网上吹得特别火的那部科幻新片，你猜观感咋样？",
+        "highlight": ""
+      },
+      {
+        "speaker": "B",
+        "text": "应该很不错吧？我刷到好多博主都在夸。",
+        "highlight": ""
+      },
+      {
+        "speaker": "A",
+        "text": "也就普普通通吧，特效还过得去，剧情完全经不起推敲。",
+        "highlight": "普普通通"
+      },
+      {
+        "speaker": "B",
+        "text": "啊？我本来还打算周末买票去看呢。对了，之前刷到的那家新开的网红泰餐呢？我还想去打卡。",
+        "highlight": ""
+      },
+      {
+        "speaker": "A",
+        "text": "也是一般般，冬阴功汤淡得像兑水，咖喱鸡也没入味。",
+        "highlight": "一般般"
+      },
+      {
+        "speaker": "B",
+        "text": "合着你这周出门消费踩的全是雷啊，可太惨了。",
+        "highlight": ""
+      }
+    ],
+    "en": [
+      {
+        "speaker": "A",
+        "text": "I watched that super hyped new sci-fi movie last week, guess how it was?",
+        "highlight": ""
+      },
+      {
+        "speaker": "B",
+        "text": "It should be great, right? I've seen tons of influencers praising it.",
+        "highlight": ""
+      },
+      {
+        "speaker": "A",
+        "text": "It's just **mid** to be honest, the effects are okay but the plot doesn't hold up at all.",
+        "highlight": "mid"
+      },
+      {
+        "speaker": "B",
+        "text": "Huh? I was planning to buy tickets for it this weekend. Oh by the way, what about that newly opened viral Thai restaurant? I wanted to check it out.",
+        "highlight": ""
+      },
+      {
+        "speaker": "A",
+        "text": "That's also **mid**, the tom yum soup is so watery and the curry chicken has no flavor.",
+        "highlight": "mid"
+      },
+      {
+        "speaker": "B",
+        "text": "Sounds like all the money you spent going out this week was a total waste, that sucks.",
+        "highlight": ""
+      }
+    ]
+  },
+  "definitions": [
+    {
+      "en": "(Internet slang) Used to describe something that is mediocre, unimpressive or of lower quality than expected",
+      "zh": "（网络俚语）形容事物平庸普通、没有亮点，质量低于预期"
+    },
+    {
+      "en": "Literally refers to the middle or central part of something",
+      "zh": "本义指某个事物的中间、中部"
+    }
+  ],
+  "examples": [
+    {
+      "en": "That new drama everyone is talking about is so mid, I gave up after 3 episodes.",
+      "zh": "大家都在讨论的那部新剧太一般了，我看了三集就弃了。"
+    },
+    {
+      "en": "I thought the limited edition snack would taste good, but it's actually pretty mid.",
+      "zh": "我本以为那款限定零食会很好吃，结果其实挺普通的。"
+    },
+    {
+      "en": "Don't bother going to that mid café, their coffee tastes like burnt water.",
+      "zh": "别费劲去那家普普通通的咖啡馆了，他们的咖啡喝起来像烧糊的水。"
+    }
+  ],
+  "synonyms": [
+    {
+      "word": "mediocre",
+      "zh": "平庸的"
+    },
+    {
+      "word": "so-so",
+      "zh": "一般般的"
+    }
+  ],
+  "antonyms": [
+    {
+      "word": "amazing",
+      "zh": "惊艳的"
+    },
+    {
+      "word": "excellent",
+      "zh": "极好的"
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "mid movie",
+      "zh": "平庸的电影"
+    },
+    {
+      "phrase": "mid food",
+      "zh": "一般的食物"
+    },
+    {
+      "phrase": "mid performance",
+      "zh": "普通的表现"
+    }
+  ],
+  "day": 10,
+  "themeColor": "#FF9F1C",
+  "generatedAt": "2026-04-27T22:22:19.254627",
+  "reviewedAt": "2026-04-27T22:22:46.469072"
+}
