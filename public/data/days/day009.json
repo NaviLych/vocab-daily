@@ -1,0 +1,51 @@
+{
+  "word": "crash out",
+  "phonetic": "/kræʃ aʊt/",
+  "pos": "phrasal verb (slang)",
+  "theme": "情感表达",
+  "dialogue": {
+    "zh": [
+      {"speaker": "A", "text": "你看到那个直播间了吗？", "highlight": ""},
+      {"speaker": "B", "text": "看到了！那家伙因为一个弹幕直接crash out了，太夸张了！", "highlight": "crash out"},
+      {"speaker": "A", "text": "哈哈哈，他直接在镜头前砸键盘", "highlight": ""},
+      {"speaker": "B", "text": "完全失控了，这波属于是彻底crash out", "highlight": "crash out"}
+    ],
+    "en": [
+      {"speaker": "A", "text": "Did you see that livestream?", "highlight": ""},
+      {"speaker": "B", "text": "Yeah, the guy totally crashed out over one comment!", "highlight": "crashed out"},
+      {"speaker": "A", "text": "He literally smashed his keyboard on camera lol", "highlight": ""},
+      {"speaker": "B", "text": "Complete loss of control, that's a full crash out fr", "highlight": "crash out"}
+    ]
+  },
+  "definitions": [
+    {"en": "To lose emotional control and react dramatically, often impulsively or recklessly", "zh": "情绪失控，做出冲动的激烈反应"},
+    {"en": "To freak out or snap, especially publicly", "zh": "公开地崩溃、发飙"},
+    {"en": "To become overwhelmed to the point of making bad decisions", "zh": "压力过大到做出糟糕的决定"}
+  ],
+  "examples": [
+    {"en": "Don't crash out over a pizza order, bro.", "zh": "别因为点个披萨就崩溃了，兄弟。"},
+    {"en": "He crashed out in 4K on Twitter after that drama.", "zh": "那场风波之后他在推特上彻底失控了（被高清录屏）。"},
+    {"en": "She posted 15 stories about him — full crash out behavior.", "zh": "她发了15条动态说他 — 完全是崩溃的表现。"},
+    {"en": "I'm about to crash out if this project doesn't end soon.", "zh": "如果这个项目还不结束我就要崩溃了。"}
+  ],
+  "synonyms": [
+    {"word": "snap", "zh": "突然发火/崩溃"},
+    {"word": "freak out", "zh": "抓狂"},
+    {"word": "spiral", "zh": "情绪螺旋式下降"},
+    {"word": "lose it", "zh": "失控"},
+    {"word": "wildin'", "zh": "发疯"}
+  ],
+  "antonyms": [
+    {"word": "keep it cool", "zh": "保持冷静"},
+    {"word": "stay calm", "zh": "镇定自若"}
+  ],
+  "collocations": [
+    {"phrase": "crash out over (something)", "zh": "因某事崩溃"},
+    {"phrase": "full crash out", "zh": "彻底失控"},
+    {"phrase": "crash out fr", "zh": "真的崩溃了"},
+    {"phrase": "crash out behavior", "zh": "崩溃行为"},
+    {"phrase": "caught crashing out", "zh": "被抓到崩溃现场"}
+  ],
+  "origin": "源自美国黑人英语(AAVE)，2017年NBA YoungBoy的歌曲中首次出现，2023-2024年在TikTok上广泛流行",
+  "usage_tip": "通常带有轻微的调侃或评判意味，但朋友间也可用作玩笑。注意：在正式场合或严肃讨论心理健康时应避免使用"
+}
