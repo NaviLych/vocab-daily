@@ -65,11 +65,25 @@
     },
     {
       "day": 10,
-      "word": "mid",
-      "theme": "评价吐槽",
-      "date": "2026-04-27",
+      "word": "Skibidi",
+      "theme": "网络流行",
+      "date": "2026-04-29",
       "file": "days/day010.json"
+    },
+    {
+      "day": 11,
+      "word": "Glow Up",
+      "theme": "日常生活",
+      "date": "2026-04-28",
+      "file": "days/day011.json"
+    },
+    {
+      "day": 12,
+      "word": "Girl math",
+      "theme": "消费观念",
+      "date": "2026-04-28",
+      "file": "days/day012.json"
     }
   ],
-  "lastUpdated": "2026-04-27"
+  "lastUpdated": "2026-04-28"
 }

@@ -1,0 +1,24 @@
+{
+  "day": 11,
+  "word": "Glow Up",
+  "phonetic": "/ɡloʊ ʌp/",
+  "theme": "日常生活",
+  "date": "2026-04-28",
+  "file": "days/day011.json",
+  "definition": "华丽蜕变；逆袭；颜值/气质全面提升；自我成长蜕变",
+  "dialogue": {
+    "context": "朋友间的日常对话",
+    "content": "A: Hey, have you seen Alex lately? Total glow up!\nB: I know right! She looks completely different from last year. Such an inspiration!",
+    "highlight": "glow up"
+  },
+  "examples": [
+    {"en": "My biggest glow up was choosing peace over everything.", "zh": "我最大的蜕变是学会选择内心的平静。", "highlight": "glow up"},
+    {"en": "Breakup glow up is real — she looks amazing now!", "zh": "分手逆袭是真的——她现在看起来太惊艳了！", "highlight": "glow up"},
+    {"en": "2026 is my year for a glow up, mark my words!", "zh": "2026是我的蜕变之年，记住我说的话！", "highlight": "glow up"}
+  ],
+  "synonyms": ["level up", "transformation", "upgrade"],
+  "antonyms": ["regression", "downgrade"],
+  "collocations": ["have a glow up", "glow up era", "major glow up", "glow up journey"],
+  "usage_tips": "Glow Up 可以用作名词（a glow up）或动词短语（glow up）。在社交媒体上常见于 Before & After 对比照的场景，表达从外貌到心态的全面提升。2026年在抖音、小红书等平台与「逆袭」「自我提升」话题强关联。",
+  "trend_score": "🔥🔥🔥"
+}
