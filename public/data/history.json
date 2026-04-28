@@ -1,6 +1,32 @@
 {
-  "words": ["vibe check", "go viral", "rizz", "based", "delulu", "aura farming", "Pop off", "Beige flag", "crash out", "Skibidi", "Glow Up"],
-  "themes": ["社交互动", "内容爆火", "人际社交", "烅感表达", "情感表达", "网络流行", "职场表达", "情感表达", "情感表达", "网络流行", "日常生活"],
-  "totalDays": 11,
-  "lastUpdated": "2026-04-29"
+  "words": [
+    "vibe check",
+    "go viral",
+    "rizz",
+    "based",
+    "delulu",
+    "aura farming",
+    "Pop off",
+    "Beige flag",
+    "crash out",
+    "Skibidi",
+    "Glow Up",
+    "Girl math"
+  ],
+  "themes": [
+    "社交互动",
+    "内容爆火",
+    "人际社交",
+    "烅感表达",
+    "情感表达",
+    "网络流行",
+    "职场表达",
+    "情感表达",
+    "情感表达",
+    "网络流行",
+    "日常生活",
+    "消费观念"
+  ],
+  "totalDays": 12,
+  "lastUpdated": "2026-04-28"
 }

@@ -1,0 +1,130 @@
+{
+  "word": "Girl math",
+  "phonetic": "/ɡɜːl mæθ/",
+  "pos": "名词短语（不可数）",
+  "theme": "消费观念",
+  "dialogue": {
+    "zh": [
+      {
+        "speaker": "A",
+        "text": "你上个月刚买了两个包，怎么又看上这个新款啦？",
+        "highlight": "又看上这个新款"
+      },
+      {
+        "speaker": "B",
+        "text": "嗨，这你就不懂了，我算过，这个包能用三四年，平摊下来一天才几块钱，等于白送啊。",
+        "highlight": "平摊下来一天才几块钱"
+      },
+      {
+        "speaker": "A",
+        "text": "你这算账逻辑怎么永远这么清奇啊，合着贵的东西只要用得久就等于不花钱是吧？",
+        "highlight": "算账逻辑"
+      },
+      {
+        "speaker": "B",
+        "text": "对啊，而且我之前出闲置还赚了两千呢，用那笔钱买等于根本没花我本月的工资啊。",
+        "highlight": "根本没花我本月的工资"
+      },
+      {
+        "speaker": "A",
+        "text": "服了你了，每次乱花钱都能找出一堆歪理给自己找台阶下。",
+        "highlight": "歪理给自己找台阶下"
+      },
+      {
+        "speaker": "B",
+        "text": "哈哈，这可是我们女生专属的消费小妙招，花了钱还能让自己开心，多值啊。",
+        "highlight": "专属的消费小妙招"
+      }
+    ],
+    "en": [
+      {
+        "speaker": "A",
+        "text": "You bought two bags just last month, why do you have your eye on this new release now?",
+        "highlight": "have your eye on this new release"
+      },
+      {
+        "speaker": "B",
+        "text": "C'mon, you don't get it. I did the math, this bag will last me at least 3 years, it's only a couple bucks a day, basically free!",
+        "highlight": "basically free"
+      },
+      {
+        "speaker": "A",
+        "text": "Your accounting logic is always so absurd, so as long as an expensive item lasts long, it's like you spent nothing, right?",
+        "highlight": "accounting logic is always so absurd"
+      },
+      {
+        "speaker": "B",
+        "text": "Exactly! Plus I made 2000 bucks selling my old stuff on secondhand platforms, paying with that money means it doesn't even come out of my monthly salary.",
+        "highlight": "doesn't even come out of my monthly salary"
+      },
+      {
+        "speaker": "A",
+        "text": "I can't with you, you always pull all kinds of illogical excuses to justify your unnecessary spending every time.",
+        "highlight": "illogical excuses to justify your unnecessary spending"
+      },
+      {
+        "speaker": "B",
+        "text": "Haha, that's **Girl math** for you! It's our exclusive trick for spending, we get to buy stuff and feel good about it, what's not to love?",
+        "highlight": "**Girl math**"
+      }
+    ]
+  },
+  "definitions": [
+    {
+      "en": "(Internet slang, humorous) Logically dubious reasoning typically used by young women to justify unnecessary or expensive purchases, often framing the spending as cost-effective or even free.",
+      "zh": "（网络俚语，幽默用法）年轻女性为非必要或昂贵消费找正当理由时使用的逻辑存疑的核算方式，通常会将该笔支出包装为划算甚至免费的。"
+    }
+  ],
+  "examples": [
+    {
+      "en": "According to girl math, if I pay for a concert ticket with cash I found in my old jacket, the concert is basically free.",
+      "zh": "按照女生消费逻辑，如果我用旧夹克里找到的现金买演唱会门票，那这场演唱会基本等于白看。"
+    },
+    {
+      "en": "My friend used girl math to convince herself that buying a $300 skincare set is a good deal because it will last her 6 months.",
+      "zh": "我朋友用女生的消费歪理说服自己买300美元的护肤套装很划算，因为这套能用6个月。"
+    },
+    {
+      "en": "Girl math makes it so much easier to splurge on little treats without feeling guilty.",
+      "zh": "女生消费算账法能让人更容易心安理得地花钱买小奖励，没有负罪感。"
+    }
+  ],
+  "synonyms": [
+    {
+      "word": "consumer rationalization",
+      "zh": "消费合理化"
+    },
+    {
+      "word": "faulty cost reasoning",
+      "zh": "错误成本核算"
+    }
+  ],
+  "antonyms": [
+    {
+      "word": "rational consumption",
+      "zh": "理性消费"
+    },
+    {
+      "word": "strict budgeting",
+      "zh": "严格预算"
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "use girl math",
+      "zh": "使用女生消费逻辑"
+    },
+    {
+      "phrase": "according to girl math",
+      "zh": "根据女生消费逻辑"
+    },
+    {
+      "phrase": "girl math logic",
+      "zh": "女生消费逻辑思路"
+    }
+  ],
+  "day": 12,
+  "themeColor": "#EF5350",
+  "generatedAt": "2026-04-28T22:25:09.674307",
+  "reviewedAt": "2026-04-28T22:25:42.684261"
+}
