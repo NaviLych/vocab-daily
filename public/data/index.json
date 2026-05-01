@@ -97,7 +97,14 @@
       "theme": "情感表达",
       "date": "2026-04-30",
       "file": "days/day014.json"
+    },
+    {
+      "day": 15,
+      "word": "fit check",
+      "theme": "穿搭社交",
+      "date": "2026-05-01",
+      "file": "days/day015.json"
     }
   ],
-  "lastUpdated": "2026-04-30"
+  "lastUpdated": "2026-05-01"
 }
