@@ -1,0 +1,125 @@
+{
+  "word": "fit check",
+  "phonetic": "/ˈfɪt tʃek/",
+  "pos": "名词短语",
+  "theme": "穿搭社交",
+  "dialogue": {
+    "zh": [
+      {
+        "speaker": "A",
+        "text": "姐妹，我今天要去约会刚搭了一身，你帮我把把关呗？",
+        "highlight": "帮我把把关"
+      },
+      {
+        "speaker": "B",
+        "text": "哟，露腰上衣配工装裤也太酷了吧，你要不拍个照发朋友圈让大家也鉴赏下？",
+        "highlight": "让大家也鉴赏下"
+      },
+      {
+        "speaker": "A",
+        "text": "好主意！我刚才还纠结要不要发呢，你帮我拍张全身照呗？",
+        "highlight": "拍张全身照"
+      },
+      {
+        "speaker": "B",
+        "text": "没问题，站窗边光线好，321，拍好了，你看是不是超出片？",
+        "highlight": "超出片"
+      },
+      {
+        "speaker": "A",
+        "text": "绝了！我现在就发，配文就写“今日出门穿搭，求真实评价~”",
+        "highlight": "求真实评价"
+      },
+      {
+        "speaker": "B",
+        "text": "哈哈我第一个去评论，必须给你打满分！",
+        "highlight": "打满分"
+      }
+    ],
+    "en": [
+      {
+        "speaker": "A",
+        "text": "Girl, I'm going on a date today and just put together a new look, could you give me some advice?",
+        "highlight": "give me some advice"
+      },
+      {
+        "speaker": "B",
+        "text": "Wow, that cropped top with cargo pants is so cool! Wanna take a pic and post it on WeChat Moments for a **fit check**?",
+        "highlight": "**fit check**"
+      },
+      {
+        "speaker": "A",
+        "text": "That's such a good idea! I was just wondering if I should post it. Can you take a full-body shot for me?",
+        "highlight": "full-body shot"
+      },
+      {
+        "speaker": "B",
+        "text": "No problem. Stand by the window where the light is great. 3,2,1, done! Look at this, isn't it super photogenic?",
+        "highlight": "super photogenic"
+      },
+      {
+        "speaker": "A",
+        "text": "It's amazing! I'm gonna post it right now with the caption 'Today's going-out fit, honest opinions please~'",
+        "highlight": "honest opinions please"
+      },
+      {
+        "speaker": "B",
+        "text": "Haha I'll be the first to comment, I'm definitely giving you a full score!",
+        "highlight": "full score"
+      }
+    ]
+  },
+  "definitions": [
+    {
+      "en": "A slang term referring to a request, photo or social media post that asks others to comment on one's full outfit.",
+      "zh": "网络俚语，指请求他人评价自己的全身穿搭，也指社交平台上发布的用于征求穿搭评价的照片或帖子。"
+    },
+    {
+      "en": "The act of showing off one's outfit and inviting feedback from others.",
+      "zh": "展示自身穿搭并征求他人反馈的行为。"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I posted a **fit check** on TikTok before heading to the concert last weekend.",
+      "zh": "上周末去演唱会之前，我在抖音上发了一条穿搭求评动态。"
+    },
+    {
+      "en": "My best friend always does a quick **fit check** with me before she goes to any important occasion.",
+      "zh": "我闺蜜去任何重要场合前，总会快速让我看看她的穿搭怎么样。"
+    },
+    {
+      "en": "The **fit check** shared by that fashion blogger got over 100k likes in an hour.",
+      "zh": "那位时尚博主分享的穿搭求评帖一小时内就获得了10万多赞。"
+    }
+  ],
+  "synonyms": [
+    {
+      "word": "outfit showcase",
+      "zh": "穿搭展示"
+    },
+    {
+      "word": "OOTD (Outfit of the Day)",
+      "zh": "今日穿搭分享"
+    }
+  ],
+  "antonyms": [],
+  "collocations": [
+    {
+      "phrase": "post a fit check",
+      "zh": "发布穿搭求评动态"
+    },
+    {
+      "phrase": "do a fit check",
+      "zh": "请求他人评价穿搭"
+    },
+    {
+      "phrase": "fit check post",
+      "zh": "穿搭求评帖子"
+    }
+  ],
+  "day": 15,
+  "themeColor": "#FF8C42",
+  "generatedAt": "2026-05-01T22:21:28.837222",
+  "reviewedAt": "2026-05-01T22:22:22.355223"
+}
