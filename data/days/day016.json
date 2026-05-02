@@ -1,0 +1,25 @@
+{
+  "day": 16,
+  "word": "No cap",
+  "pronunciation": "/noʊ kæp/",
+  "theme": "社交互动",
+  "date": "2026-05-02",
+  "meaning": "说真的、不是吹牛、我是认真的",
+  "explanation": "Cap 在俚语中意为「吹牛、撒谎」。No cap 就是「没有吹牛」= 说真的、我是认真的。这个词用于强调自己的话是真诚的、没有夸大。",
+  "dialogue": {
+    "context": "朋友间讨论周末计划",
+    "lines": [
+      {"speaker": "A", "text": "听说你上周跑了半马？"},
+      {"speaker": "B", "text": "No cap，我真跑完了，腿现在还酸着呢 😅"}
+    ]
+  },
+  "examples": [
+    "That pizza was the best in town, no cap. 那家咖啡店是城里最好喝的，真的。",
+    "No cap, I've been waiting for this concert for three years. 说真的，我等这场演唱会等了三年了。",
+    "You really finished the whole book in one night? No cap? 你真的一晚上就读完了整本书？真的假的？"
+  ],
+  "synonyms": ["for real", "honestly", "deadass", "FR", "on god"],
+  "antonyms": ["cap", "that's a lie", "capping"],
+  "collocation": ["no cap at all", "not even capping", "no cap, fam", "deadass no cap"],
+  "origin": "源自非洲裔美国人英语（AAVE），2010年代在亚特兰大嘻哈圈流行。2017年Future和Young Thug发布歌曲《No Cap》后进入主流视野。Cap 原意是「吹牛、夸张」，可追溯至1940年代的「The Dozens」口头对决游戏。"
+}
