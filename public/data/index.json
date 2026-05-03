@@ -11,11 +11,12 @@
     {"day":9,"word":"crash out","theme":"网络流行","date":"2026-04-28","file":"days/day009.json"},
     {"day":10,"word":"Skibidi","theme":"网络流行","date":"2026-04-29","file":"days/day010.json"},
     {"day":11,"word":"Glow Up","theme":"日常生活","date":"2026-04-30","file":"days/day011.json"},
-    {"day":12,"word":"Girl math","theme":"学术场景","date":"2026-05-01","file":"days/day012.json"},
+    {"day":12,"word":"Girl math","theme":"消费理念","date":"2026-05-01","file":"days/day012.json"},
     {"day":13,"word":"Canon Event","theme":"情感表达","date":"2026-05-01","file":"days/day013.json"},
     {"day":14,"word":"the ick","theme":"情感表达","date":"2026-05-01","file":"days/day014.json"},
     {"day":15,"word":"fit check","theme":"穿着表达","date":"2026-05-01","file":"days/day015.json"},
-    {"day":16,"word":"no cap","theme":"社交互动","date":"2026-05-02","file":"days/day016.json"}
+    {"day":16,"word":"no cap","theme":"社交互动","date":"2026-05-02","file":"days/day016.json"},
+    {"day":17,"word":"Chopped","theme":"网络流行","date":"2026-05-03","file":"days/day017.json"}
   ],
-  "lastUpdated":"2026-05-02"
+  "lastUpdated": "2026-05-03"
 }
