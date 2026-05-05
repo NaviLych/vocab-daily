@@ -125,7 +125,14 @@
       "theme": "日常生活",
       "date": "2026-05-04",
       "file": "days/day018.json"
+    },
+    {
+      "day": 19,
+      "word": "404 coded",
+      "theme": "网络流行",
+      "date": "2026-05-05",
+      "file": "days/day019.json"
     }
   ],
-  "lastUpdated": "2026-05-04"
+  "lastUpdated": "2026-05-05"
 }
