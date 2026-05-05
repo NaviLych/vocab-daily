@@ -1,0 +1,37 @@
+{
+  "word": "404 coded",
+  "phonetic": "/ˈfɔː fɔː fɔːr ˈkoʊdɪd/",
+  "theme": "网络流行",
+  "date": "2026-05-05",
+  "definition": "形容某人看起来困惑、迷茫、心不在焉，就像网络错误\"404 Not Found\"一样——脑子宕机了，找不到信号，完全不在状态。",
+  "dialog": {
+    "A": "Same... I think I need coffee before I can process any more info.",
+    "B": "Honestly? My brain is 404 coded right now. I zoned out completely."
+  },
+  "examples": [
+    {
+      "en": "First day back at school and my brain is fully 404 coded.",
+      "zh": "开学第一天，我的脑子完全宕机了。"
+    },
+    {
+      "en": "I asked him a simple question and he just stared at me — 404 coded.",
+      "zh": "我问了他一个简单的问题，他只是盯着我看——完全懵了。"
+    },
+    {
+      "en": "After 3 hours of meetings, everyone in the room was 404 coded.",
+      "zh": "开了3小时的会后，房间里每个人都处于离线状态了。"
+    }
+  ],
+  "synonyms": [
+    "spaced out",
+    "zoned out",
+    "checked out",
+    "zapping out"
+  ],
+  "collocations": [
+    "be 404 coded",
+    "feeling 404 coded",
+    "fully 404 coded",
+    "totally 404 coded"
+  ]
+}
