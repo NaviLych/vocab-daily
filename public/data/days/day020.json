@@ -1,0 +1,59 @@
+{
+  "day": 20,
+  "word": "slay",
+  "theme": "社交互动",
+  "date": "2026-05-06",
+  "pronunciation": "/sleɪ/",
+  "definition": "做得极好；看起来超棒；自信地惊艳全场",
+  "meaning": "源自变装文化的赞美词，现在广泛用于夸赞别人的穿搭、表现或整体状态。相当于中文的'绝了'、'太厉害'、'杀疯了'。",
+  "examples": [
+    {
+      "en": "You slayed that presentation!",
+      "zh": "你的演讲太绝了！"
+    },
+    {
+      "en": "Okayyy, slay queen 👑",
+      "zh": "好耶，你就是女王！"
+    },
+    {
+      "en": "She walked in and slayed the whole room.",
+      "zh": "她一走进来就惊艳全场。"
+    }
+  ],
+  "dialogue": {
+    "context": "朋友刚发了一张精心打扮的照片",
+    "lines": [
+      {
+        "speaker": "A",
+        "text": "Check out my fit for tonight!",
+        "translation": "看看我今晚的穿搭！"
+      },
+      {
+        "speaker": "B",
+        "text": "Okay you absolutely SLAYED that outfit 🔥",
+        "translation": "天哪你这身搭配绝了！"
+      },
+      {
+        "speaker": "A",
+        "text": "Haha thanks, I mean I did spend an hour on it 😂",
+        "translation": "哈哈谢啦，毕竟我可是花了一小时搭配的"
+      },
+      {
+        "speaker": "B",
+        "text": "Worth it. You're serving looks tonight!",
+        "translation": "值了！今晚你绝对艳压全场！"
+      }
+    ]
+  },
+  "synonyms": ["ate", "killed it", "served", "nailed it", "fire"],
+  "antonyms": ["chopped", "mid", "cringe"],
+  "collocations": [
+    "slay that + 名词 (slay that presentation)",
+    "absolute slay",
+    "slay queen/king",
+    "slay all day",
+    "born to slay"
+  ],
+  "tips": "slay来源于变装舞（drag）文化，舞者用slay形容表演者的惊艳登场。现在已成为主流网络用语，适合朋友间的夸赞和打气。注意不要在正式场合使用，会显得不够专业。",
+  "color": "#E85D75"
+}
