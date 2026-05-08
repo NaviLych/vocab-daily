@@ -1,0 +1,40 @@
+{
+  "day": 22,
+  "word": "it's giving",
+  "phonetic": "/ɪts ˈɡɪvɪŋ/",
+  "theme": "社交互动",
+  "date": "2026-05-08",
+  "meaning": {
+    "en": "Something is giving off a particular vibe, energy, or aesthetic — used to describe what someone or something resembles or reminds you of.",
+    "zh": "有那味了 / 散发着……的氛围"
+  },
+  "dialogue": {
+    "speaker1": "Mia",
+    "speaker2": "Jake",
+    "lines": [
+      {"speaker": "Mia", "text": "Did you see Lily's new apartment? The exposed brick, the plants everywhere..."},
+      {"speaker": "Jake", "text": "Yeah, it's giving cozy Parisian café."},
+      {"speaker": "Mia", "text": "Right?! And that playlist she had on was giving very much lo-fi study vibes."},
+      {"speaker": "Jake", "text": "Honestly, her whole setup is giving. I'm a little jealous."},
+      {"speaker": "Mia", "text": "Same. Meanwhile my place is giving... barely functional adult."}
+    ],
+    "highlights": ["it's giving", "giving very much", "is giving", "is giving"]
+  },
+  "examples": [
+    {"en": "That outfit? It's giving CEO.", "zh": "那套衣服？CEO范儿十足。"},
+    {"en": "This whole meeting is giving nothing. Can we just go home?", "zh": "这会开得毫无氛围，能不能直接回家？"},
+    {"en": "It's giving very much 'I woke up like this' energy.", "zh": "完全就是"我天生就这样"的气场。"},
+    {"en": "The new café downtown is giving vintage library vibes.", "zh": "市中心那家新咖啡馆有种复古图书馆的感觉。"}
+  ],
+  "synonyms": ["serving", "channeling", "reminiscent of", "vibing"],
+  "antonyms": ["giving nothing", "mid", "not it"],
+  "collocations": [
+    "it's giving + [vibe/energy/persona]",
+    "giving very much + [description]",
+    "giving nothing",
+    "That's giving",
+    "is / isn't giving"
+  ],
+  "origin": "Originated from Black and Latinx LGBTQ+ ballroom culture in the 1970s-80s, where performers would 'give' what a category required. Popularized on TikTok and social media in the 2020s.",
+  "tip": "Tone matters! 'It's giving CEO' is a compliment, but 'It's giving desperate' is a subtle burn. When used alone, 'it's giving' = it's working / it's impressive."
+}
