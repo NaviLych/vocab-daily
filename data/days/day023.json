@@ -1,0 +1,40 @@
+{
+  "day": 23,
+  "word": "lock in",
+  "phonetic": "/lɒk ɪn/",
+  "theme": "职场表达",
+  "date": "2026-05-09",
+  "meaning": {
+    "en": "To enter a state of deep focus and full commitment, cutting out all distractions.",
+    "zh": "进入专注模式 / 全力投入"
+  },
+  "dialogue": {
+    "speaker1": "Chloe",
+    "speaker2": "Marcus",
+    "lines": [
+      {"speaker": "Chloe", "text": "Hey, you still coming to trivia night?"},
+      {"speaker": "Marcus", "text": "Can't. I've got a deployment tomorrow morning — I need to lock in tonight."},
+      {"speaker": "Chloe", "text": "Again? You've been locking in every night this week."},
+      {"speaker": "Marcus", "text": "I know, but once I'm locked in, the code just flows. It's honestly kind of addicting."},
+      {"speaker": "Chloe", "text": "Alright, Mr. Locked In. Just don't crash out before the deadline."}
+    ],
+    "highlights": ["lock in", "locking in", "locked in", "crash out"]
+  },
+  "examples": [
+    {"en": "Finals are next week — time to lock in.", "zh": "下周期末考试，该全力冲刺了。"},
+    {"en": "I said I'd lock in at 9pm... it's 11 and I'm still scrolling TikTok.", "zh": "我说9点开始专注……现在11点了还在刷TikTok。"},
+    {"en": "She's locked in right now. Nothing can break her focus.", "zh": "她现在完全专注，什么都打断不了她。"},
+    {"en": "Bro, lock in — we've got two hours to finish this.", "zh": "兄弟，认真点——我们只有两小时搞定这个。"}
+  ],
+  "synonyms": ["in the zone", "focus up", "grind mode", "hunker down"],
+  "antonyms": ["slacking off", "zoning out", "goofing off"],
+  "collocations": [
+    "lock in + [task/goal]",
+    "need to lock in",
+    "I'm locked in",
+    "time to lock in",
+    "locked in for + [event]"
+  ],
+  "origin": "Originally from everyday English meaning 'to secure in place.' Evolved in sports and gaming culture to mean entering a state of hyper-focus. By 2025–2026, it became mainstream Gen Z slang, popularized on TikTok and social media as a motivational phrase.",
+  "tip": "'Lock in' is your mental switch 🔒 — it's about deciding to take something seriously. Use it as a verb ('I need to lock in'), an adjective ('I'm locked in'), or even a command ('Lock in!'). It's temporary focus, not a permanent commitment."
+}
