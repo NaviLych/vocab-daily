@@ -160,7 +160,14 @@
       "theme": "职场表达",
       "date": "2026-05-09",
       "file": "days/day023.json"
+    },
+    {
+      "day": 24,
+      "word": "I know ball",
+      "theme": "社交互动",
+      "date": "2026-05-10",
+      "file": "days/day024.json"
     }
   ],
-  "lastUpdated": "2026-05-09"
+  "lastUpdated": "2026-05-10"
 }
