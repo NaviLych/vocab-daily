@@ -1,0 +1,27 @@
+{
+  "day": 24,
+  "word": "I know ball",
+  "phonetic": "/aɪ noʊ bɔːl/",
+  "theme": "社交互动",
+  "date": "2026-05-10",
+  "definition": "自信地宣称自己是正确的/很懂某事，相当于"相信我，我知道自己在说什么"",
+  "origin": "源自篮球俚语，\"knowing ball\"原本指精通篮球，后来被TikTok发扬光大，成为万能的自信宣言",
+  "dialogue": {
+    "context": "朋友在争论哪家餐厅好吃",
+    "lines": [
+      {"speaker": "Alex", "text": "Trust me, that new ramen place is amazing. I know ball."},
+      {"speaker": "Sam", "text": "Okay okay, you clearly know your food. I'll try it!"}
+    ]
+  },
+  "examples": [
+    "That bag? It's the next It-girl moment. I know ball.",
+    "The pastrami donut at that place? Life-changing. I know ball.",
+    "This playlist? Absolutely fire. I know ball.",
+    "When I walk into Sephora bare-faced and they think I don't know ball... *proceeds to do a full beat* Baby, I know ball."
+  ],
+  "synonyms": ["no cap", "bet", "trust me"],
+  "antonyms": [],
+  "collocation": ["know ball about (something)", "don't know ball", "know ball energy"],
+  "cultural_notes": "这个短语在TikTok上非常流行，通常配合\"plug walk remix\"背景音乐使用，形成固定的视频格式：先展示被低估的场景，然后展示实力证明，最后加上\"I know ball\"字幕。",
+  "tags": ["TikTok", "自信", "社交", "2025-2026热门"]
+}
