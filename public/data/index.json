@@ -167,7 +167,14 @@
       "theme": "社交互动",
       "date": "2026-05-10",
       "file": "days/day024.json"
+    },
+    {
+      "day": 25,
+      "word": "Brain Rot",
+      "theme": "网络流行",
+      "date": "2026-05-11",
+      "file": "days/day025.json"
     }
   ],
-  "lastUpdated": "2026-05-10"
+  "lastUpdated": "2026-05-11"
 }
