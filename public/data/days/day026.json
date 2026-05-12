@@ -1,0 +1,45 @@
+{
+  "day": 26,
+  "date": "2026-05-12",
+  "word": "Main Character Energy",
+  "phonetic": "/meɪn ˈkærəktər ˈenərdʒi/",
+  "theme": "日常生活",
+  "definition": "主角能量，指一种自信、主导的态度——把自己当成生活电影的主角来演绎，敢于表达自我、不在乎他人眼光。",
+  "dialogue": {
+    "context": "室友看到小红在客厅练习 TED 演讲姿势",
+    "A": "Why are you practicing your TED talk in the living room?",
+    "B": "I have an interview tomorrow! Gotta get that main character energy going. 💫",
+    "A": "Girl, you don't need a script. Just be yourself—oh wait, that's already main character energy."
+  },
+  "examples": [
+    {
+      "en": "Walking into Monday like it's the opening scene of my movie.",
+      "zh": "走进周一就像走进电影开场一样。"
+    },
+    {
+      "en": "She walked in with full main character energy and everyone noticed.",
+      "zh": "她带着满满的主角能量走进来，所有人都在看她。"
+    },
+    {
+      "en": "Main character energy isn't about being arrogant—it's about knowing your worth.",
+      "zh": "主角能量不是傲慢——而是清楚自己的价值。"
+    }
+  ],
+  "synonyms": [
+    "confident aura",
+    "protagonist mindset",
+    "star quality"
+  ],
+  "antonyms": [
+    "side character energy",
+    "NPC energy",
+    "blending in"
+  ],
+  "collocation": [
+    "full/some main character energy",
+    "have/get main character energy",
+    "serve main character energy",
+    "main character energy hits"
+  ],
+  "color": "#7C5CFC"
+}
