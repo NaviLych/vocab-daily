@@ -1,0 +1,61 @@
+{
+  "day": 27,
+  "date": "2026-05-13",
+  "word": "Touch Grass",
+  "pronunciation": "/tʌtʃ ɡræs/",
+  "theme": "日常生活",
+  "definition": "放下手机/网络，出去走走，回归现实生活",
+  "dialogue": {
+    "context": "两个朋友讨论彼此的上网习惯",
+    "lines": [
+      {
+        "speaker": "Alex",
+        "text": "Dude, you've been arguing about this for THREE hours."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "I KNOW, but this person is SO wrong about this theory!"
+      },
+      {
+        "speaker": "Alex",
+        "text": "Bro, you need to touch grass. Like, right now."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Ugh, fine. You're probably right. I'll take a walk."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Good call. Fresh air hits different after a keyboard war."
+      }
+    ]
+  },
+  "examples": [
+    {
+      "english": "If you're threatening actual violence over fan fiction, I need you to touch grass.",
+      "translation": "如果你因为同人文而威胁别人动真格的，你需要去外面走走冷静一下。"
+    },
+    {
+      "english": "I've been doomscrolling for six hours. Time to touch some grass.",
+      "translation": "我刷手机刷了六个小时了，该出去透透气了。"
+    },
+    {
+      "english": "Touch grass, dude. Your opinion is a little too online.",
+      "translation": "出去走走吧老哥，你的观点太脱离现实了。"
+    }
+  ],
+  "synonyms": [
+    "get outside",
+    "go outside",
+    "unplug",
+    "step away",
+    "log off"
+  ],
+  "related": [
+    "brain rot",
+    "doomscrolling",
+    "too online"
+  ],
+  "usage_tips": "可以用 'touch grass' 或 'touch some grass'，后者更口语化。通常作为祈使句使用，可以是调侃也可以是真诚建议。",
+  "emoji": "🌿"
+}
