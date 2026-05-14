@@ -1,0 +1,33 @@
+{
+  "day": 28,
+  "word": "Fanum Tax",
+  "phonetic": "/ˈfænəm tæks/",
+  "theme": "日常生活",
+  "theme_emoji": "🍟",
+  "date": "2026-05-14",
+  "dialog": {
+    "a": "Hey, those fries look fire! *reaches over and grabs one*",
+    "b": "Did you just Fanum tax my fries?!",
+    "a_response": "Bro, that's the Fanum Tax. You gotta pay to be in my presence. 😏"
+  },
+  "definition": "幽默俚语，指未经允许"征收"别人的食物作为"税"，戏谑地声称对朋友食物的分享权。",
+  "examples": [
+    "He just Fanum taxed my pizza slice without asking.",
+    "The Fanum Tax is real today—my roommate ate half my lunch.",
+    "That's the Fanum Tax, bro. You know the rules."
+  ],
+  "synonyms": [
+    "food tax",
+    "snack theft",
+    "friend tax"
+  ],
+  "antonyms": [],
+  "collocation": [
+    "pay the Fanum Tax",
+    "hit someone with the Fanum Tax",
+    "Fanum tax evasion",
+    "10% Fanum Tax"
+  ],
+  "origin": "2022年Twitch主播Fanum（Roberto Escanio）在直播中的搞笑梗，会"收取"朋友食物的一口作为"税"。已被Merriam-Webster词典收录。",
+  "usage_notes": "可以作为名词使用（He hit me with the Fanum tax）或动词（I Fanum taxed his fries）。"
+}

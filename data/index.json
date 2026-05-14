@@ -188,7 +188,14 @@
       "theme": "日常生活",
       "date": "2026-05-13",
       "file": "days/day027.json"
+    },
+    {
+      "day": 28,
+      "word": "Fanum Tax",
+      "theme": "日常生活",
+      "date": "2026-05-14",
+      "file": "days/day028.json"
     }
   ],
-  "lastUpdated": "2026-05-13"
+  "lastUpdated": "2026-05-14"
 }
