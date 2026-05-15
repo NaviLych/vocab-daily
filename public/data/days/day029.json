@@ -1,0 +1,45 @@
+{
+  "day": 29,
+  "word": "NPC",
+  "pronunciation": "/en-pee-see/",
+  "theme": "网络流行",
+  "date": "2026-05-15",
+  "meaning": "非玩家角色（来自游戏），用来形容一个人像机器人一样缺乏原创想法，只会跟风或重复别人的话。",
+  "dialogue": [
+    {
+      "person": "A",
+      "text": "He just said \"it is what it is\" for the third time..."
+    },
+    {
+      "person": "B",
+      "text": "NPC dialogue unlocked 💀"
+    },
+    {
+      "person": "A",
+      "text": "She copied that TikTok caption word for word 😭"
+    },
+    {
+      "person": "B",
+      "text": "Total NPC behavior fr"
+    }
+  ],
+  "examples": [
+    "Bro doesn't think for himself at all — he's got serious NPC energy.",
+    "Everyone in the comment section said the same thing. NPC convention over there."
+  ],
+  "synonyms": [
+    "basic",
+    "bot",
+    "sheep"
+  ],
+  "antonyms": [
+    "sigma",
+    "GOAT"
+  ],
+  "collocations": [
+    "NPC behavior",
+    "NPC energy",
+    "NPC vibes",
+    "NPC moment"
+  ]
+}
