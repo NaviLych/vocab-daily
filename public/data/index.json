@@ -195,7 +195,14 @@
       "theme": "日常生活",
       "date": "2026-05-14",
       "file": "days/day028.json"
+    },
+    {
+      "day": 29,
+      "word": "NPC",
+      "theme": "网络流行",
+      "date": "2026-05-15",
+      "file": "days/day029.json"
     }
   ],
-  "lastUpdated": "2026-05-14"
+  "lastUpdated": "2026-05-15"
 }
