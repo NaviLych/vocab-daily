@@ -28,7 +28,8 @@
     "Main Character Energy",
     "Touch Grass",
     "Fanum Tax",
-    "NPC"
+    "NPC",
+    "demure"
   ],
   "themes": [
     "日常生活",
@@ -59,8 +60,9 @@
     "日常生活",
     "日常生活",
     "日常生活",
+    "网络流行",
     "网络流行"
   ],
-  "totalDays": 29,
-  "lastUpdated": "2026-05-15"
+  "totalDays": 30,
+  "lastUpdated": "2026-05-16"
 }

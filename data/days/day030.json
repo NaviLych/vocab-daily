@@ -1,0 +1,35 @@
+{
+  "day": 30,
+  "word": "demure",
+  "phonetic": "/dɪˈmjʊər/",
+  "theme": "网络流行",
+  "date": "2026-05-16",
+  "file": "days/day030.json",
+  "definition": "形容人表现得端庄、得体、低调、有分寸，带有一种优雅而克制的风格。在网络语境中，既可以真诚地赞美，也可带讽刺意味。",
+  "dialogue": {
+    "context": "朋友买了新裙子，试穿给你看",
+    "lines": [
+      {"speaker": "A", "text": "Ooh, let me see! Oh wow, that dress is so demure on you!"},
+      {"speaker": "B", "text": "Thanks! I wanted something that looks polished but not over the top."},
+      {"speaker": "A", "text": "Exactly! Very demure, very mindful. You nailed it."}
+    ]
+  },
+  "examples": [
+    {
+      "en": "Her makeup tutorial was all about looking polished without trying too hard — very demure.",
+      "zh": "她的美妆教程讲的是如何不费力就看起来精致——非常端庄得体。"
+    },
+    {
+      "en": "He stayed demure during the whole meeting, barely saying a word.",
+      "zh": "他在整个会议中都很低调，几乎一言不发。"
+    },
+    {
+      "en": "Buying one iced coffee instead of three? Very demure, very mindful.",
+      "zh": "只买一杯冰美式而不是三杯？非常克制，非常有分寸。"
+    }
+  ],
+  "synonyms": ["modest", "reserved", "poised", "understated", "subtle"],
+  "antonyms": ["bold", "flamboyant", "ostentatious", "flashy"],
+  "collocations": ["very demure", "demure outfit", "demure energy", "demure makeup", "demure smile"],
+  "usage_tips": "这个词在2024年因TikTok博主Jools Lebron的'very demure, very mindful'视频爆火。语气可以真诚也可以讽刺，关键看语境！"
+}
